@@ -12,10 +12,7 @@
     "serve": "serve dist --single",
     "test": "tyu"
   },
-  "author": {
-    "name": "gfrancodsantos",
-    "email": "gfrancodsantos@gmail.com"
-  },
+  "author": "gfrancodsantos <gfrancodsantos@gmail.com>",
   "dependencies": {
     "normalize.css": "^7.0.0",
     "object-assign": "^4.1.1",
@@ -26,5 +23,7 @@
     "poi-preset-bundle-report": "^2.0.0",
     "serve": "^6.1.0",
     "tyu": "^1.0.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/gfrancodsantos/clima-tempo.git"
 }

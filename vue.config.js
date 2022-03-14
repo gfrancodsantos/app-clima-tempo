@@ -1,3 +1,3 @@
 module.exports = {
-    baseUrl: '/clima-tempo'
+    publicPath: 'clima-tempo'
 }
